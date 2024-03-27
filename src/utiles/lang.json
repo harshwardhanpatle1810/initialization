@@ -1,0 +1,23 @@
+{
+    "en":{
+        "welcomeMessage":"welcome !",
+        "normalMessage":"we are try to learn React.",
+        "greetingMessage":"Have a nice jurney",
+        "endMessage":"we have to  end this journey.",
+        "userSteteMessage":"<studentCount> student are learning in this session"
+    },
+    "mr":{
+        "welcomeMessage":"स्वागत आहे !",
+        "normalMessage":"मँला पुनरायोजित करण्याचा प्रयास करीत आहे.",
+        "greetingMessage":"छान जुर्नी आहे",
+        "endMessage":"पुनरायोजित करण्याचा",
+        "userSteteMessage":"<studentCount>  आहे"
+    },
+    "hi":{
+        "welcomeMessage":"स्वागत हैं!",
+        "normalMessage":"हम अपने प्रयास करते हैं रेACT को प्राणवीर्याच्या  प्रयास करून प्रभावशाली कराते  हैं",
+        "greetingMessage":"एक अच्छा jurney है",
+        "endMessage":"प्रयास करते हैं रेACT को प्राणवीर्याच्या  प्रयास  ",
+        "userSteteMessage":" <studentCount>  हैं"
+    }
+}
